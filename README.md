@@ -5,3 +5,5 @@
 * function
 * switch
 * object
+* IIFE
+* 
